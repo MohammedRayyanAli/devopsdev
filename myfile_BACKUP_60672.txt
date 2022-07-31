@@ -1,0 +1,6 @@
+ayyan Test
+<<<<<<< HEAD
+New file added things
+=======
+man test
+>>>>>>> dev2
